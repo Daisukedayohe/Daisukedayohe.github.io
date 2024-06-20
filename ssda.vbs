@@ -28,4 +28,5 @@ x=msgbox("FIN", 64, "Birthday na this fr fr")
 x=msgbox("NGAYO KO SPAGETTI GIGUTOM KO PLEASEEES", 64, "Birthday na this fr fr")
 x=msgbox("Balik sa website then Last Step ;)", 64, "Birthday na this fr fr")
 x=msgbox("GO NA", 64, "Birthday na this fr fr")
-
+x=msgbox("Copy and Paste this==", 64, "Birthday na this fr fr")
+x=msgbox("Daisukedayohe.github.io/MainPage.html", 64, "Birthday na this fr fr")
